@@ -1,0 +1,1 @@
+import{_ as s,c as r,o as c,s as o}from"./BrEJIdKZ.js";const a={},t={class:"min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900"};function n(e,l){return c(),r("div",t,[o(e.$slots,"default")])}const f=s(a,[["render",n]]);export{f as default};
