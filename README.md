@@ -53,12 +53,10 @@ This page is the README landing page for the BadIceCream 2 browser game on SERP 
 
 ## Similar Games
 
-- [Color Switch Maze](https://games.serp.co/games/color-switch-maze/)
-- [Direction Maze](https://games.serp.co/games/direction-maze/)
-- [Echo Maze](https://games.serp.co/games/echo-maze/)
-- [Fast Finger Maze](https://games.serp.co/games/fast-finger-maze/)
-- [Glow Trail Maze](https://games.serp.co/games/glow-trail-maze/)
-- [Luma Maze](https://games.serp.co/games/luma-maze/)
+- [Traffic Escape](https://github.com/serpgames/traffic-escape-game)
+- [Level Devil](https://github.com/serpgames/level-devil-game)
+- [Snake](https://github.com/serpgames/snake-game)
+- [Tetris](https://github.com/serpgames/tetris-game)
 
 ## Play Now
 
