@@ -67,7 +67,6 @@ Start here: [Play BadIceCream 2 online free unblocked](https://games.serp.co/gam
 ## Support and Project Links
 
 - [BadIceCream 2 on SERP Games](https://games.serp.co/games/badicecream-2/)
-- [Devin Schumacher on GitHub](https://github.com/devinschumacher)
 
 ## FAQ
 
